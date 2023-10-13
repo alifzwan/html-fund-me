@@ -3,7 +3,6 @@
 # html-fund-me-fcc
 **Website Development for our Smart Contract**
 
-*[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45177s)*
 
 
 This is a minimalistic example what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
@@ -90,6 +89,13 @@ Additionally, add your localhost with chainid 31337 to your metamask.
 
 # Thank you!
 
+If you appreciated this, feel free to follow me or donate!
+
+BTC Address: 3C8PAXFvaHyWXVntGFqP2GbQxh27UcZdwG
+
+
+[![MelloIzGud Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MelloIzGud)
+[![MelloIzGud Spotify](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/alifzwan?si=fe95ea18995c4bee)
 
 
 
